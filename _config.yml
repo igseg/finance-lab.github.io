@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: COMBINE-lab # title of site, used in tab name and elsewhere
+title: Finance Lab # title of site, used in tab name and elsewhere
 email: rob@cs.umd.edu # default email
 google: Rob Patro # default name to search on Google Scholar
 github: COMBINE-lab # default GitHub user/org, without the @
@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. # description that will show under search engine results
+      description: Finance Lab # description that will show under search engine results
       background: images/surrey-background.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
