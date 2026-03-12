@@ -48,6 +48,7 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
+
 - id: doi:10.1016/j.intfin.2024.102008
   image: https://ars.els-cdn.com/content/image/X10424431.jpg
   tags:
