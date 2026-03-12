@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# <i class="fas fa-flask"></i>Home
+# <i class="fas wallet"></i>Home
 
 The Finance Lab was created in the fall of 2024 in the [Beedie School of Business](https://www.sfu.ca/beedie.html). The lab's initial focus was the analysis and understanding of digital assets, in the process we have also studied a number of related topics, from derivatives to market microstructure.
 
