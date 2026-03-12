@@ -19,3 +19,5 @@ You can type in "terms" (single words) or "phrases" (quoted multiple words), lik
 Cards that contain all of the terms and at least one of the phrases will be considered a match.
 Search words will be highlighted in the results (if they're longer than 2 characters).
 Searching is case insensitive.
+
+{% include card-search.html subject="papers" %}
