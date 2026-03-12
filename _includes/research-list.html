@@ -3,10 +3,13 @@
 {% assign byyear = papers | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
 
 {% for yeargroup in byyear %}
-  <h3 style="color: red;">Year: {{ yeargroup.name }}</h3>
-  <ul>
-    {% for paper in yeargroup.items %}
-      <li>{{ paper.title }}</li>
-    {% endfor %}
-  </ul>
+  <h3>{{ yeargroup.name }}</h3>
+  {% for paper in yeargroup.items %}
+    {% assign authors = paper.authors | join: ", " %}
+    {%- capture details -%}
+      {{- paper.publisher -}} &nbsp; · &nbsp; {{- paper.date | date: "%d %b %Y" -}}
+    {%- endcapture -%}
+
+    <p><strong>{{ paper.title }}</strong><br>{{ authors }}<br>{{ details }}</p>
+  {% endfor %}
 {% endfor %}
