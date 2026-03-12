@@ -18,7 +18,7 @@ The research interests of our lab broadly span many areas of quantitative financ
     * analyze the pricing and latent factors that explain crypto options returns
     * understand the risk-neutral dynamics through the derivatives
   * Applications of data-driven methods to Finance
-  {:style="line-height: 2.5;"}
+  {:style="line-height: 2.0;"}
 
 ### For interested students
 
