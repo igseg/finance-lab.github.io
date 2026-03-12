@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# <i class="fas fas-wallet"></i>Home
+# <i class="fas fa-wallet"></i>Home
 The Finance Lab was created in the fall of 2024 in the [Beedie School of Business](https://www.sfu.ca/beedie.html). The lab's initial focus was the analysis and understanding of digital assets, in the process we have also studied a number of related topics, from derivatives to market microstructure.
 
 ### Research Interests
@@ -10,15 +10,22 @@ The Finance Lab was created in the fall of 2024 in the [Beedie School of Busines
 The research interests of our lab broadly span many areas of quantitative finance and digital assets.  Some of our main areas of interest include:
 
   * Economy of digital assets
+  <p> <br> </p>
     * understanding the investors' preferences for digital assets
+    <p> <br> </p>
     * the structure of crypto markets, and how it deviates from conventional markets
+    <p> <br> </p>
     * incentives for the different agents that provide services in the market
+    <p> <br> </p>
     * Agent Based Modeling and Reinforcement Learning applied to this economy
+    <p> <br> </p>
   * Crypto derivatives pricing
+  <p> <br> </p>
     * analyze the pricing and latent factors that explain crypto options returns
+    <p> <br> </p>
     * understand the risk-neutral dynamics through the derivatives
+    <p> <br> </p>
   * Applications of data-driven methods to Finance
-{:style="line-height: 2.0;"}
 
 ### For interested students
 
