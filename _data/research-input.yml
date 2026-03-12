@@ -67,7 +67,7 @@
     - Climate change
 
 - id: doi:10.1080/14697688.2024.2332384
-  image: https://ars.els-cdn.com/content/image/X15446123.jpg
+  image: https://www.tandfonline.com/cms/asset/45d7c423-08b4-43c4-ba80-75bdce857b41/rquf20.v024.i05.largecover.jpg
   tags:
     - Water management
     - Climate change
@@ -82,3 +82,12 @@
     - Delta-hedging
     - Option market illiquidity
     - Latent factor models
+
+- id: doi:10.1016/j.intfin.2025.102139
+  image: https://ars.els-cdn.com/content/image/X10424431.jpg
+  tags:
+    - Cash holdings
+    - Bank lines of credit
+    - Corporate diversification
+    - Coinsurance
+    - Liquidity risk
