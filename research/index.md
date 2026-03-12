@@ -21,3 +21,11 @@ Search words will be highlighted in the results (if they're longer than 2 charac
 Searching is case insensitive.
 
 {% include card-search.html subject="papers" %}
+
+## Research List
+
+A _research list_ component, to sort and group all of your research publications.
+Can be used on any page, but assumes its content from `/_data/research-output.yml`.
+Uses the _card_ component (small).
+
+{% include research-list.html %}
