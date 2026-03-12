@@ -21,6 +21,16 @@
 {% include tags.html tags=paper.tags repo=paper.repo %}
 {% endcapture %}
 
+{% capture extralinks %}
+{% if paper.extra-links.size > 0 %}
+<div>
+  {%- for link in paper.extra-links -%}
+  {% include paper-link.html type=link.type link=link.link text=link.text %}
+  {%- endfor -%}
+</div>
+{% endif %}
+{% endcapture %}
+
 {% endfor %}
 
 {% endfor %}
