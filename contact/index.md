@@ -28,5 +28,5 @@ Simon Fraser University
 Vancouver, BC V6C 1W6
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Brendan+Iribe+Center+for+Computer+Science+and+Engineering/@38.9890953,-76.9387086,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7e9e636ed11:0x9aaf14503Iribe Center for Computer Science and Engineering032f4a!8m2!3d38.9890953!4d-76.9365146)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://maps.app.goo.gl/ZGLTzcWMccDeLVdFA)
 {:.center}
