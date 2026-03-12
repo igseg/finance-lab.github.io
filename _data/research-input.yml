@@ -48,58 +48,37 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
-- id: doi:10.1101/2020.11.06.371963
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
-  tags:
-    - cancer
-    - single cell
-    - ovarian cancer
-
 - id: doi:10.1016/j.intfin.2024.102008
   image: https://ars.els-cdn.com/content/image/X10424431.jpg
   tags:
-    - Finance
-    - test
-    - test2 with space
+    - Electricity markets regulations
+    - Zonal vs nodal pricing
+    - Margins
+    - Synthetic controls
+    - Financial performance
 
-- id: doi:10.1098/rsif.2017.0387
-  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.1101/142760
-    - type: source
-      link: http://github.com/greenelab/deep-review
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi:10.1016/j.jbankfin.2025.107520
+  image: https://ars.els-cdn.com/content/image/X03784266.jpg
   tags:
-    - knowledge graphs
+    - Hydropower asset
+    - Drought
+    - Water
+    - Optimal control
+    - Climate change
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi: 10.1080/14697688.2024.2332384
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rquf20.v024.i05
+  tags:
+    - Water management
+    - Climate change
+    - Hydropower
+    - Sustainable reservoir
+
+- id: doi: 10.1016/j.frl.2025.108003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1544612325X00155-cov150h.gif
+  tags:
+    - Cryptocurrency options
+    - Market maker aggregate gamma inventory
+    - Delta-hedging
+    - Option market illiquidity
+    - Latent factor models
