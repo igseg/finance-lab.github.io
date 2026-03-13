@@ -4,7 +4,7 @@ search:
   - Christina Atanasova
 role: pi
 group: current
-image: https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/0f35add9591f03cb88cbd3fca23d9fd8.jpg
+image: images/christina.png
 email: christina_atanasova@sfu.ca
 ---
 
