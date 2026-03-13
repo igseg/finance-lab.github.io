@@ -16,7 +16,7 @@ A central strand of her recent research examines crypto derivatives markets, ana
 
 Outside academia, Christina enjoys alpine climbing and spends much of her free time in the mountains.
 
-<p>
+<p align="center">
     <img src="./../images/christina2.png" alt="isolated" width="1000"/>
     <em>Winter ascent of Mt. Wedge, British Columbia</em>
 </p>
