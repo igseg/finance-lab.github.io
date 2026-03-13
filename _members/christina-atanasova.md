@@ -18,7 +18,7 @@ Outside academia, Christina enjoys alpine climbing and spends much of her free t
 
 <p align="center">
     <img src="./../images/christina2.png" alt="isolated" width="1000"/>
-    <em>Winter ascent of Mt. Wedge, British Columbia</em>
+    **Winter ascent of Mt. Wedge, British Columbia**
 </p>
 
 <!-- My [**CV** can be found here](https://combine-lab.github.io/assets/cv/rob_cv.pdf). [**To be updated**] -->
