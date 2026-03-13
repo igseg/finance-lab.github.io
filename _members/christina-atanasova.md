@@ -14,7 +14,7 @@ Professor Atanasova’s research studies how financial markets price risk and in
 
 Professor Atanasova’s research studies how financial markets price risk and incentives, with a particular focus on derivatives markets and volatility risk premia. Her work uses option market data to study the pricing of volatility and tail risk, and the role of financial frictions in shaping asset prices.
 
-A central strand of her recent research examines crypto derivatives markets, analyzing the pricing of volatility and tail risk in Bitcoin and other digital asset options. Other streams of her research focus on climate transition risk in energy markets and agency problems in empirical corporate finance.
+A central strand of her recent research examines crypto derivatives markets, analyzing the pricing of volatility and tail risk in Cryptocurrencies and other digital asset options. Other streams of her research focus on climate transition risk in energy markets and agency problems in empirical corporate finance.
 
 Outside academia, Christina enjoys alpine climbing and spends much of her free time in the mountains.
 
