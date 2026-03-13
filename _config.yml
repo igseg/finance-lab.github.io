@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: Finance Lab # description that will show under search engine results
+      description: Finance Lab at the Beedie School of Business. # description that will show under search engine results
       background: images/surrey-background.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
