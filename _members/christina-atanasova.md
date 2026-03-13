@@ -2,7 +2,7 @@
 title: Christina Atanasova
 search:
   - Christina Atanasova
-role: pi
+role: codirector
 group: current
 image: images/christina.png
 email: christina_atanasova@sfu.ca

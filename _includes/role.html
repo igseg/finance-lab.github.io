@@ -6,6 +6,11 @@
 {%- assign text = "Principal Investigator" -%}
 {%- endif -%}
 
+{%- if include.type == "codirector" -%}
+{%- assign icon = "fas fa-microscope" -%}
+{%- assign text = "Codirector" -%}
+{%- endif -%}
+
 {%- if include.type == "postdoc" -%}
 {%- assign icon = "fas fa-glasses" -%}
 {%- assign text = "Postdoctoral Researcher" -%}

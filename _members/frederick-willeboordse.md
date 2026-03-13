@@ -2,7 +2,7 @@
 title: Frederick Willeboordse
 search:
   - Frederick Willeboordse
-role: pi
+role: codirector
 group: current
 image: images/frederick.png
 email: frederick_willeboordse@sfu.ca
