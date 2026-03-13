@@ -17,8 +17,8 @@ A central strand of her recent research examines crypto derivatives markets, ana
 Outside academia, Christina enjoys alpine climbing and spends much of her free time in the mountains.
 
 <p align="center">
-    <img src="./../images/christina2.png" alt="isolated" width="1000"/>
-    **Winter ascent of Mt. Wedge, British Columbia**
+    <img src="./../images/christina2.png" alt="isolated" width="1000"/><br>
+    <strong>Winter ascent of Mt. Wedge, British Columbia</strong>
 </p>
 
 <!-- My [**CV** can be found here](https://combine-lab.github.io/assets/cv/rob_cv.pdf). [**To be updated**] -->
