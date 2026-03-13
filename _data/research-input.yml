@@ -93,13 +93,13 @@
     - Coinsurance
     - Liquidity risk
 
- - id: doi:10.1007/s11192-024-05168-z
-   image: https://media.springernature.com/w120/springer-static/cover-hires/journal/11192?as=webp
-   tags:
-     - Article influence
-     - Citation
-     - Ethics
-     - Information use
-     - Research
-     - Science
-     - Strategic behavior
+ # - id: doi:10.1007/s11192-024-05168-z
+ #   image: https://media.springernature.com/w120/springer-static/cover-hires/journal/11192?as=webp
+ #   tags:
+ #     - Article influence
+ #     - Citation
+ #     - Ethics
+ #     - Information use
+ #     - Research
+ #     - Science
+ #     - Strategic behavior
