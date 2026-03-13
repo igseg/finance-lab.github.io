@@ -1,12 +1,21 @@
 <a {% if include.link %}href="{{ include.link | relative_url }}"{% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
 
+  {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
+
   <span class="portrait_image">
     {%- if include.image -%}
-    <img src="{{ include.image | relative_url }}" onerror="this.src = '{{ placeholder }}'; this.onerror = null;">
+    <img
+      src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+    >
     {%- else -%}
     <img src="{{ placeholder }}">
     {%- endif -%}
   </span>
+
+  {%- if include.role -%}
+  {%- include role.html type=include.role -%}
+  {%- endif -%}
 
   {%- if include.name -%}
   <span class="portrait_name">
@@ -15,9 +24,9 @@
   {%- endif -%}
 
   {%- if include.role -%}
-  <div class="portrait_role">
-    {%- include role.html type=include.role text=true -%}
-  </div>
+  <span class="portrait_role_text" style="display: block; font-size: 0.85em; color: #666; margin-top: 4px;">
+    {{ text }}
+  </span>
   {%- endif -%}
 
 </a>

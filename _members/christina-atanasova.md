@@ -8,7 +8,7 @@ image: images/christina.png
 email: christina_atanasova@sfu.ca
 ---
 
-Christina Atanasova is a Professor of Finance and the Philip Hochstein Research Fellow at the [Beedie School of Business](https://www.sfu.ca/beedie.html), Simon Fraser University. She joined Simon Fraser University in 2007 after holding a tenure-track position at the University of York. She is also a Visiting Professor at the Center for Policy Design at the Graduate School of Economics and Management, Tohoku University in Japan.
+Christina Atanasova is a Professor of Finance and the Philip Hochstein Research Fellow at the [Beedie School of Business](https://www.sfu.ca/beedie/contact-us/faculty-staff-directory/profile.html?name=ChristinaAtanasova), Simon Fraser University. She joined Simon Fraser University in 2007 after holding a tenure-track position at the University of York. She is also a Visiting Professor at the Center for Policy Design at the Graduate School of Economics and Management, Tohoku University in Japan.
 
 Professor Atanasova’s research studies how financial markets price risk and incentives, with a particular focus on derivatives markets and volatility risk premia. Her work uses option market data to study the pricing of volatility and tail risk, and the role of financial frictions in shaping asset prices.
 
