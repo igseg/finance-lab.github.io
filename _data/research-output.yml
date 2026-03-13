@@ -98,3 +98,18 @@
   - Information use
   - Research
   - Science
+- title: 'Test'
+  authors:
+  - Test author
+  publisher: SSRN
+  date: '2026-03-16'
+  link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6410838#
+  id: doi:10.1007/s11192-024-05168-z
+  image: https://cdn.ssrn.com/ssrn-header-widget/static/media/ssrn.11589acb53bc518aa22929bf19add113.svg
+  tags:
+  - Article influence
+  - Citation
+  - Ethics
+  - Information use
+  - Research
+  - Science
