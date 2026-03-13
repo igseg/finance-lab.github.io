@@ -24,9 +24,9 @@
   {%- endif -%}
 
   {%- if include.role -%}
-  <span class="portrait_role">
-    {{ include.role }}
-  </span>
+  <div class="portrait_role">
+    {%- include role.html type=include.role text=true -%}
+  </div>
   {%- endif -%}
 
 </a>
