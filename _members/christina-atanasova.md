@@ -10,6 +10,6 @@ email: christina_atanasova@sfu.ca
 
 I am a professor of finance in the [Beedie School of Business](https://www.sfu.ca/beedie.html)
 
-![image info](images/christina.png)
+![image info](./images/christina.png)
 
 My [**CV** can be found here](https://combine-lab.github.io/assets/cv/rob_cv.pdf). [**To be updated**]
