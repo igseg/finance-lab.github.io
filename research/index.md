@@ -2,11 +2,11 @@
 title: Research
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-book"></i>Research
 
 <!-- section break -->
 
-## Card Search
+## Search
 
 
 {% include card-search.html subject="papers" %}
