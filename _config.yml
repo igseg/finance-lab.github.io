@@ -2,16 +2,17 @@
 
 # site-wide variables
 title: Finance Lab # title of site, used in tab name and elsewhere
-email: rob@cs.umd.edu # default email
-google: Rob Patro # default name to search on Google Scholar
-github: COMBINE-lab # default GitHub user/org, without the @
-twitter: nomad421 # default Twitter handle, without the @
+email: christina_atanasova@sfu.ca # default email
+google: Christina Atanasova # default name to search on Google Scholar
+# github: COMBINE-lab # default GitHub user/org, without the @
+# twitter: nomad421 # default Twitter handle, without the @
 #instagram: fakeinstagramhandle # default Instagram handle, without the @
 #youtube: fakeyoutubechannel # default YouTube channel handle
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: "/"
+url: "https://financelab.ca"
+baseurl: ""
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:
