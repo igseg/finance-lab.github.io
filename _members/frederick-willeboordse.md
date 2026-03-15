@@ -2,6 +2,7 @@
 title: Frederick Willeboordse
 search:
   - Frederick Willeboordse
+  - Frederick H. Willeboordse
 role: codirector
 group: current
 image: images/frederick.png
