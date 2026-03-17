@@ -1,4 +1,4 @@
-k---
+---
 title: Ignacio Segarra
 search:
   - Ignacio Segarra
