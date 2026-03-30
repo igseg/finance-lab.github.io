@@ -1,7 +1,8 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: Finance Lab # title of site, used in tab name and elsewhere
+title: Quantitative Finance Lab # title of site, used in tab name and elsewhere
+subtitle: Research in Digital Assets, Derivatives, and Market Microstructure
 email: christina_atanasova@sfu.ca # default email
 google: Christina Atanasova # default name to search on Google Scholar
 # github: COMBINE-lab # default GitHub user/org, without the @
