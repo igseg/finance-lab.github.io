@@ -12,7 +12,7 @@ redirect_from:
 
 ## Research Group
 
-The Finance Lab is a research group focused on studying risk, derivatives markets, and digital assets using modern quantitative and computational methods. Our work examines how financial markets price risk, with a particular focus on option markets, volatility dynamics, and the role of financial frictions. We are a collaborative and interdisciplinary team of researchers and students interested in the intersection of finance, data science, and financial technologies.
+The Finance Lab is a research group focused on the study of risk, derivatives markets, and digital assets using modern quantitative and computational methods. We are a collaborative and interdisciplinary group of faculty and graduate students working at the intersection of financial economics, data science, and financial technology.
 
 {% capture html %}
 <!-- {% include team-list.html role="pi" group="current" %} -->

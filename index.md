@@ -23,7 +23,3 @@ We are particularly interested in markets where Finance theory and new market st
 We welcome students who are interested in quantitative finance, digital assets, and data-driven research. Most of our projects involve coding in Python and working with large financial datasets. The lab meets weekly, and students are welcome to attend meetings to learn more about current projects and ongoing research.
 
 If you are interested in joining the lab, please get in touch and include a short description of your background and research interests.
-
-### Research Group
-
-The Finance Lab is a research group focused on the study of risk, derivatives markets, and digital assets using modern quantitative and computational methods. We are a collaborative and interdisciplinary group of faculty and graduate students working at the intersection of financial economics, data science, and financial technology.
