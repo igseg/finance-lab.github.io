@@ -24,5 +24,5 @@ Frederick has also been an active trader, first trading options in the 80s durin
 
 
 <div style="text-align: center;">
-    <img src="./../images/frederick_2.png" alt="isolated" width="300"/><br>
+    <img src="./../images/frederick_2.png" alt="isolated" width="400"/><br>
 </div>
