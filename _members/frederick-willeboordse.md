@@ -21,3 +21,11 @@ Based on his strong research record, he was promoted to Associate Professor with
 Frederick has always been closely associated with the business world. In both Switzerland and Holland, he spent much time in his father’s model train and hobby shops. In Hong Kong, he ran an Apple retail shop that also briefly ventured into manufacturing an accessory for the Palm Pilot – an early digital assistant, as well as an internet hosting and e-commerce business. In Singapore, he co-founded an online commercial rubber trading platform and, while in Victoria, he set up a coffee shop and later an Indian restaurant (ranked number 1 on Facebook!).
 
 Frederick has also been an active trader, first trading options in the 80s during his student days. In recent years, he has mostly focused on algorithmic trading and runs a server in Chicago where he can test out research ideas in real time.
+
+
+<div style="text-align: center;">
+    <img src="./../images/frederick_2.png" alt="isolated" width="1000"/><br>
+    <div style="font-weight: bold; margin-top: 10px;">
+        Winter ascent of Mt. Wedge, British Columbia
+    </div>
+</div>
