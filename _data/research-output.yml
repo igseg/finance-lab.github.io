@@ -101,7 +101,7 @@
 - title: 'Does gamma survive the close?'
   authors:
   - Frederick H. Willeboordse
-  publisher: Scientometrics
+  publisher: Finance Research Letters
   date: '2026-09-01'
   link: https://doi.org/10.1016/j.frl.2026.110281
   id: doi.org/10.1016/j.frl.2026.110281
@@ -113,3 +113,32 @@
   - returns
   - Variance risk premium
   - Leverage effect
+- title: 'Fiat versus stablecoin price integration on Kraken: triangle dislocations and correction hierarchy in BTC and ETH spot markets'
+  authors:
+  - Frederick H. Willeboordse
+  publisher: Digital Finance
+  date: '2026-07-06'
+  link: https://link.springer.com/article/10.1007/s42521-026-00206-2
+  id: doi.org/10.1007/s42521-026-00206-2
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/42521?as=webp
+  tags:
+  - Cryptocurrency market microstructure
+  - Stablecoins
+  - Triangular parity
+  - Price discovery
+  - Exchange fragmentation
+  - Kraken
+- title: 'Seconds of price discovery: Evidence from short-dated options'
+  authors:
+  - Frederick H. Willeboordse
+  publisher: Economics Letters
+  date: '2026-09-01'
+  link: https://www.sciencedirect.com/science/article/pii/S0165176526003083
+  id: doi.org/10.1016/j.econlet.2026.113112
+  image: https://ars.els-cdn.com/content/image/X01651765.jpg
+  tags:
+  - Options
+  - Price discovery
+  - Empirical delta
+  - Short-dated options
+  - Market microstructure
